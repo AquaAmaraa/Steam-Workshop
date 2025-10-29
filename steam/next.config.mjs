@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   output: 'export',
-  basePath: '/Steam-Workshop',  // Replace with YOUR repo name
+  basePath: '/steam-workshop',  // Your repo name
   images: {
     unoptimized: true
   }
